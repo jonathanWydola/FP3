@@ -7,6 +7,7 @@ For full description, see the project schedule [on Piazza.][piazza]
 
 ### Team Members
 Jonathan Wydola - gh: jonathanWydola
+
 Pruthvi Raj
 
 ### A Team Name
